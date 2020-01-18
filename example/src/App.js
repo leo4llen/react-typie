@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'react-typewriter'
+import Typewriter from 'react-typewriter'
 
 export default class App extends Component {
-  render () {
+  render() {
+    const style = {
+      color: 'blue'
+    }
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <Typewriter style={style} text="Example typewriter style text" />
       </div>
     )
   }
