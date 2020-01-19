@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # react-typewriter
 
 > A react component to emulate typewriter text effect
@@ -18,10 +20,8 @@ import React, { Component } from 'react'
 import MyComponent from 'react-typewriter'
 
 class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MyComponent />
   }
 }
 ```
