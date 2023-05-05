@@ -51,4 +51,4 @@ let options = {
 
 ## License
 
-MIT © [lech4rm](https://github.com/lech4rm)
+MIT © [leo4llen](https://github.com/leo4llen)
